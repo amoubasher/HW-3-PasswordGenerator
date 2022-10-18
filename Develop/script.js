@@ -79,6 +79,4 @@ function generatePassword () {
     password = password + potentialChars[getRandomInt(potentialChars.length)]
   }
   return password;
-
-  // Make the user have to input a number between 8 & 128 characters, if  < 8 or >128; tell them its wrong
 }
