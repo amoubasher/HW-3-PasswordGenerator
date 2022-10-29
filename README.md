@@ -6,6 +6,6 @@ Then, the page would ask if they would like any uppercase letters, lowercase let
 
 While going through this challenge, I had to resort to googling and asking questions from other students/tutors. It was a great learning experience and the first time I used JS to this extent. I had a lot of fun going through it and figuring out why an error message would pop up in the wrong place, or after all the prompts were answered. I would've liked to have to utilize loops more, as my understanding of them is not where I would like to be. Other than that I am proud I was able to make a program work.
 
-
+https://amoubasher.github.io/HW-3-PasswordGenerator/
 
 ![image](https://user-images.githubusercontent.com/68880379/196308900-7dde50cb-13bf-4fde-a971-d5e3f76662db.png)
